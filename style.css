@@ -95,7 +95,7 @@ footer {
 }
 
 main {
-	
+	margin: 15px 0 5px 25px;
 }
 
 form {
@@ -111,7 +111,7 @@ form label, form legend {
 .input-padrao {
 	display: block;
 	margin: 0 0 20px;
-	padding: 10px 25px;
+	padding: 10px;
 	width: 50%;
 }
 
@@ -134,7 +134,7 @@ form label, form legend {
 
 .enviar:hover {
 	background: darkorange;
-	transform: scale(1.2);
+	transform: scale(1.03);
 }
 
 table {
